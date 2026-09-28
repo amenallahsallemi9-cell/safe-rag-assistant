@@ -1,0 +1,13 @@
+langchain>=1.0
+langgraph>=1.0
+langchain-core>=1.0
+langchain-cohere>=0.4
+langserve[server]>=0.3
+fastapi
+uvicorn
+sse-starlette
+gradio>=4.0
+requests
+python-dotenv
+pydantic>=2
+pytest
